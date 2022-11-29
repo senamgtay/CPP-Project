@@ -1,0 +1,3 @@
+C:/Users/pc/OneDrive - Ashesi University/Second year/2nd Semester/Intermediate CP/c++/FlightPathFinal/cmake-build-debug/CMakeFiles/FlightPathFinal.dir
+C:/Users/pc/OneDrive - Ashesi University/Second year/2nd Semester/Intermediate CP/c++/FlightPathFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/OneDrive - Ashesi University/Second year/2nd Semester/Intermediate CP/c++/FlightPathFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
